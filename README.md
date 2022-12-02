@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vedicrawat
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on communication skills
+- 💞️ I’m looking to collaborate on team work
 - 📫 How to reach me vedicrawat@outlook.com
 
 <!---
